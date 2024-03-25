@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: aquamarine;
+}
+button {
+    background-color: blue;
+    cursor: pointer;
+    width: 150px;
+    height: 70px;
+    border: none;
+    color: #fff;
+    border-radius: 20px;
+}
