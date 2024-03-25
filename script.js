@@ -4,7 +4,7 @@ botao.addEventListener('mouseout', sair)
 let corpo = document.getElementById("corpo");
 
 function clicar() {
-    corpo.style.backgroundColor = 'yellow';
+    corpo.style.backgroundColor = 'red';
 };
 
 function sair() {
